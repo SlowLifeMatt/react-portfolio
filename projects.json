@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Stock Table",
+      "live": "https://slowlifematt-react-stocks.netlify.app/",
+      "git": "https://github.com/SlowLifeMatt/react-router-stocks",
+      "image": "image.png"
+    },
+    {
+      "name": "Star Wars Starships",
+      "live": "https://slowlifematt-star-wars.netlify.app/",
+      "git": "https://github.com/SlowLifeMatt/react-star-wars",
+      "image": "image.png"
+    }
+  ]
